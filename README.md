@@ -104,10 +104,3 @@ Feel free to:
 - [Express.js](https://expressjs.com/)  
 - [MDN Web Docs](https://developer.mozilla.org/)
 
----
-
-## 🚀 Final Thoughts
-
-> **"Built for instant connection — because every message matters."**
-
----
